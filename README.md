@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mohamedisakr@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love to learn new technologies
--->
