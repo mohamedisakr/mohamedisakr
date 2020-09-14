@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="Mohamed Sakr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
 
 ### Languages and Tools:
 
@@ -31,6 +30,5 @@ Here are some ideas to get you started:
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 
-<br />
-<br />
+
 [linkedin]: https://www.linkedin.com/in/mohamed-sakr-36a841141/
