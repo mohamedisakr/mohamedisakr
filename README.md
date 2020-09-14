@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
+<details>
+  <summary>:zap: Github Stats</summary>
 
+  <img align="left" alt="Mohamed's Github Stats" src="https://github-readme-stats.mohamedisakr.vercel.app/api?username=mohamedisakr&show_icons=true&hide_border=true" />
+
+</details>
 
 [linkedin]: https://www.linkedin.com/in/mohamed-sakr-36a841141/
