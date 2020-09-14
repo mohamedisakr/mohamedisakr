@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="Mohamed Sakr | LinkedIn" width="22px" src="https://www.linkedin.com/in/mohamed-sakr-36a841141/" />][Linkedin]
+[<img align="left" alt="Mohamed Sakr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/mohamed-sakr-36a841141/
