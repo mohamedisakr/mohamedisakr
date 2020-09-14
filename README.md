@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mohamedisakr@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love to learn new technologies
+
+### Connect with me:
+
+[<img align="left" alt="Mohamed Sakr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
