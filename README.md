@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as freelancer
+- 🔭 I’m currently working as freelancer software developer / software development engineer in test
 - 🌱 I’m currently learning manual and automated software testing
 - 👯 I’m looking to collaborate on software testing
 - 🤔 I’m looking for help with ...
