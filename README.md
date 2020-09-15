@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 ---
 
 <img align="left" alt="Mohamed's Github Stats" src="https://github-readme-stats.mohamedisakr.vercel.app/api?username=mohamedisakr&show_icons=true&hide_border=true" />
-
+[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedisakr)](https://github.com/mohamedisakr/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/mohamed-sakr-36a841141/
