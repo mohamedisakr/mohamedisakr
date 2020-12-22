@@ -1,4 +1,4 @@
-### I'm Software Developer / Software Development Engineer in Test  👋
+### I'm Software Development Engineer in Test  👋
 
 
 
